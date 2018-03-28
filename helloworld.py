@@ -1,3 +1,2 @@
 
-tmp="Hello, World"
-print(tmp)
+print("Hello world\n")
